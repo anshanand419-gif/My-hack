@@ -1,0 +1,6 @@
+{
+  "name": "HellBot - 24/7 Aternos Server Bot & Anti-AFK Engine",
+  "description": "Premium 24/7 Aternos Minecraft server bot with anti-AFK, mob combat, automated subscription access, real UTR verification, and AI support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
